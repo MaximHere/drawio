@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T07:50:27.931Z" agent="5.0 (Windows)" version="16.5.6" etag="6BGfVdu2ks5ZyLJIuNu9" type="github"><diagram id="JPbXzhGzDBjE-mVch2Qb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-03T08:32:37.180Z" agent="5.0 (Windows)" etag="LqM0Di5H5y2NLeeAXJf0" version="16.5.6" type="github">
+  <diagram id="JPbXzhGzDBjE-mVch2Qb" name="Page-1">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-1" value="Roda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-2" value="Sepeda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-3" value="Spion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-4" value="Manusia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-6" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mho2u9xM5tLjCDr-LoO8-1" target="mho2u9xM5tLjCDr-LoO8-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="230" as="sourcePoint" />
+            <mxPoint x="630" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-7" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mho2u9xM5tLjCDr-LoO8-3" target="mho2u9xM5tLjCDr-LoO8-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="230" as="sourcePoint" />
+            <mxPoint x="630" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
