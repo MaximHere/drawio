@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T08:54:20.057Z" agent="5.0 (Windows)" etag="b19kwgvpNHGt2j_Xr70L" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T08:59:00.369Z" agent="5.0 (Windows)" etag="J3jkdcl9bg0fSAyiBULE" version="16.5.6" type="github">
   <diagram id="JPbXzhGzDBjE-mVch2Qb" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -54,6 +54,30 @@
             <mxPoint x="610" y="260" as="sourcePoint" />
             <mxPoint x="610" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-14" value="Kipas Angin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-15" value="Motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-16" value="Baling-baling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-17" value="Tombol Kontrol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-18" value="Tombol On" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-20" value="Tombol&lt;br&gt;&lt;div&gt;Off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mho2u9xM5tLjCDr-LoO8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
