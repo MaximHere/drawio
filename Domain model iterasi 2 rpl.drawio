@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T10:25:27.741Z" agent="5.0 (Windows)" etag="vo3el0sqMG-0TSd_x_vW" version="17.2.4" type="github"><diagram id="15EABtuWY1-_hFTh_thL" name="Page-2">dZFND4IwDIZ/ze5jk+gdUS+eOHheWGVLBiVjBvTXC6GIC5rs0D3v24+0TGb1cPaqNVfU4JjgemDyyIRIdkKw6XH9nMk+JVB5q8m0gsK+gCAn+rAausgYEF2wbQxLbBooQ8SU99jHtju6uGurKtiAolRuS29WB0M04XwVLmArQ60PKQm1WswEOqM09l9I5kxmHjHMUT1k4KblLXuZ805/1M9gHprwI2EM1trjJ7qQzN8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-22T10:42:22.577Z" agent="5.0 (Windows)" etag="s-VxlLCBPEOAm4UEuZW3" version="17.2.4" type="github">
+  <diagram id="15EABtuWY1-_hFTh_thL" name="Page-2">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LO0BK9AxvAbbKSKY0mCt-1" value="Pasien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO0BK9AxvAbbKSKY0mCt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
